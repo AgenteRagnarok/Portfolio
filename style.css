@@ -1,0 +1,51 @@
+
+body {background-color: black;
+
+}    
+
+.título1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+
+.caixa {
+    background-color: rgb(55, 53, 53);
+    display: flex; 
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+}
+.foto {
+    border: solid 2px blue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.menu-direito { 
+    width: 50%;
+    display: flex;
+}
+
+.nome { color: rgb(5, 244, 156);
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-left: 1%;
+    
+
+}
+
+.texto1 {
+    font-size: x-large; 
+    color: white;
+
+}    
